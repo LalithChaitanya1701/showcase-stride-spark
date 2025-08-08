@@ -19,26 +19,15 @@ const ProjectsSection = () => {
       stars: 124
     },
     {
-      title: "ML Price Predictor",
-      description: "Machine learning model for real estate price prediction using Python, scikit-learn, and data visualization libraries.",
+      title: "Brut3Zero",
+      description: "An Advanced Multi-Protocol Brute-Force Attack Tool",
       image: project2,
-      technologies: ["Python", "TensorFlow", "Pandas", "Flask", "React"],
+      technologies: ["Python", "ttkbootstrap", "Tkinter"],
       github: "#",
       live: "#",
       featured: true,
       stars: 89
     },
-    {
-      title: "Task Management App",
-      description: "Productivity app with real-time collaboration, built using React Native and Firebase for cross-platform mobile experience.",
-      image: project3,
-      technologies: ["React Native", "Firebase", "TypeScript", "Redux"],
-      github: "#",
-      live: "#",
-      featured: false,
-      stars: 67
-    }
-  ];
 
   return (
     <section id="projects" className="py-20 bg-gradient-secondary">
