@@ -6,13 +6,9 @@ const AboutSection = () => {
     {
       icon: GraduationCap,
       title: "Education",
-      description: "Final Year CS Student at Tech University with a 3.8 GPA"
+      description: "Final Year CS Student at Guru Nanak Institutions Technical Campus with 8.6 GPA"
     },
-    {
-      icon: Code,
-      title: "Development",
-      description: "3+ years of experience in full-stack development"
-    },
+   
     {
       icon: Brain,
       title: "Specialization",
