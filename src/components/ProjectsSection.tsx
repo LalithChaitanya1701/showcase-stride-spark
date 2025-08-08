@@ -28,7 +28,7 @@ const ProjectsSection = () => {
       featured: true,
       stars: 89
     }
-]
+];
   return (
     <section id="projects" className="py-20 bg-gradient-secondary">
       <div className="container mx-auto px-4">
