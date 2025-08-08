@@ -12,7 +12,7 @@ const AboutSection = () => {
     {
       icon: Brain,
       title: "Specialization",
-      description: "Focus on AI/ML, Data Science, and Cloud Technologies"
+      description: "Focus on AI/ML, Cyber Security, and Cloud Technologies"
     },
     {
       icon: Trophy,
