@@ -9,7 +9,7 @@ import project3 from "@/assets/project3.jpg";
 const ProjectsSection = () => {
   const projects = [
     {
-      title: "E-Commerce Platform",
+      title: "YaRi - E-Commerce Platform",
       description: "Full-stack e-commerce solution with modern UI, payment integration, and admin dashboard. Built with React, Node.js, and MongoDB.",
       image: project1,
       technologies: ["React", "Node.js", "MongoDB", "Stripe", "Tailwind CSS"],
@@ -19,25 +19,15 @@ const ProjectsSection = () => {
       stars: 124
     },
     {
-      title: "ML Price Predictor",
-      description: "Machine learning model for real estate price prediction using Python, scikit-learn, and data visualization libraries.",
+      title: "Brut3Zero",
+      description: "An Advanced Multi-Protocol Brute-Force Attack Tool",
       image: project2,
-      technologies: ["Python", "TensorFlow", "Pandas", "Flask", "React"],
+      technologies: ["Python", "Tkinter", "ttkbootstrap"],
       github: "#",
       live: "#",
       featured: true,
       stars: 89
     },
-    {
-      title: "Task Management App",
-      description: "Productivity app with real-time collaboration, built using React Native and Firebase for cross-platform mobile experience.",
-      image: project3,
-      technologies: ["React Native", "Firebase", "TypeScript", "Redux"],
-      github: "#",
-      live: "#",
-      featured: false,
-      stars: 67
-    }
   ];
 
   return (
