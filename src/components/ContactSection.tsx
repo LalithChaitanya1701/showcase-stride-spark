@@ -10,19 +10,19 @@ const ContactSection = () => {
     {
       icon: Mail,
       title: "Email",
-      detail: "alex.johnson@email.com",
-      link: "mailto:alex.johnson@email.com"
+      detail: "lalithchaitanya.mulapala@gmail.com",
+      link: "mailto:lalithchaitanya.mulapala@gmail.com"
     },
     {
       icon: Phone,
       title: "Phone",
-      detail: "+1 (555) 123-4567",
-      link: "tel:+15551234567"
+      detail: "+91 8309191260",
+      link: "tel:+91 8309191260"
     },
     {
       icon: MapPin,
       title: "Location",
-      detail: "San Francisco, CA",
+      detail: "Hyderabad, Telangana",
       link: "#"
     }
   ];
@@ -76,7 +76,7 @@ const ContactSection = () => {
             <div className="pt-4">
               <p className="text-sm text-muted-foreground">
                 Available for internships, part-time opportunities, and exciting projects. 
-                Expected graduation: May 2024
+                Expected graduation: May 2026
               </p>
             </div>
           </div>
